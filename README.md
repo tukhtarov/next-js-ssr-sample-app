@@ -1,1 +1,5 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# next-js-ssr-sample-app
+
+npm install
+npm run dev
+access articles list - /articles
