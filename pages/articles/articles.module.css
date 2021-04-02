@@ -1,0 +1,23 @@
+.articleImage {
+  margin-right: 10px;
+  height: 150px;
+  width: 150px;
+}
+
+.row {
+  display: flex;
+}
+
+.row img {
+  cursor: pointer;
+}
+
+@media screen and (max-width: 480px) {
+  .row {
+    display: block;
+  }
+  .articleImage {
+    width: 100%;
+    height: auto;
+  }
+}

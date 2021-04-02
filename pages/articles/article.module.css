@@ -1,0 +1,12 @@
+.articleImage {
+  float: right;
+  margin: 10px;
+}
+
+@media screen and (max-width: 480px) {
+  .articleImage {
+    float: none;
+    width: 100%;
+    margin: 0;
+  }
+}
