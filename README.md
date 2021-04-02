@@ -1,5 +1,5 @@
 # next-js-ssr-sample-app
 
-npm install
-npm run dev
-access articles list - /articles
+1. npm install
+2. npm run dev
+3. access articles list - /articles
